@@ -31,6 +31,8 @@
 - 🔘 关闭
 - 🔄 一键启用所有
 
+![XP模块控制面板界面](https://github.com/Xposed-Modules-Repo/bc.hlx/blob/main/Screenshot_2026-04-03-13-09-11-13_9029a393504f57cb7865c3aa458d10fa.jpg?raw=true)
+
 ## 下载
 
 [点击此处下载最新版 APK](https://github.com/Xposed-Modules-Repo/bc.hlx/releases/latest)
